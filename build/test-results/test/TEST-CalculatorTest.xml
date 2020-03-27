@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-03-27T17:59:26" hostname="Hamads-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="testAddOperationOneThousandPlusZeroThenExpectsOneThousand" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testSubtractOperationTenMinusThreeThenExpectsSeven" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testSubtractOperationFiveMinusThreeThenExpectsTwo" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testAddOperationTwoPlusThreeThenExpectsFive" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
