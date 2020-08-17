@@ -51,3 +51,16 @@ REFACTOR to remove duplication
  
 
 -> Create one more test case for add operation
+
+
+## Running
+
+### ./gradlew build || ./gradlew run
+
+Runs the app in the console.<br>
+You will also see any lint errors in the console.
+
+
+### ./gradlew test
+
+Runs the tests in the console.<br>
